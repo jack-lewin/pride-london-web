@@ -17,6 +17,13 @@
     "number": "-44-102-3",
     "error": "+5"
   },
-  "bs-dependencies": ["reason-react", "bs-css", "bs-enzyme", "@glennsl/bs-jest"],
+  "bs-dependencies": [
+    "@glennsl/bs-jest",
+    "@glennsl/bs-json",
+    "bs-css",
+    "bs-enzyme",
+    "bs-fetch",
+    "reason-react"
+  ],
   "refmt": 3
 }
